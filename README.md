@@ -1,16 +1,19 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C39EF7&width=435&lines=Hey%2C+it's+Christopher;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<!--
-**chrisli36/chrisli36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a software engineer with a passion for making impactful change through software development and machine learning. Having a background in computer science and mathematics, I love tackling complex challenges and thinking of unique approaches to problems.
 
-Here are some ideas to get you started:
+Interested in learning more about me?
+- Check out my portfolio website!
+- Feel free to reach out on [linkedin](https://www.linkedin.com/in/cjyl/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java)](https://skillicons.dev)
+
+#### Web Technologies
+[![My Skills](https://skillicons.dev/icons?i=django,flask,postgres,react,nodejs,typescript,javascript,html,css)](https://skillicons.dev)
+
+#### Developer Tools
+[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,vscode)](https://skillicons.dev)
