@@ -3,10 +3,6 @@
 ### About Me
 I'm a software engineer with a passion for making impactful change through software development and machine learning. Having a background in computer science and mathematics, I love tackling complex challenges and thinking of unique approaches to problems.
 
-Interested in learning more about me?
-- Check out my portfolio website!
-- Feel free to reach out on [linkedin](https://www.linkedin.com/in/cjyl/)!
-
 ### Technical Skills
 
 #### Languages
