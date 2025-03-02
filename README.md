@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C39EF7&width=435&lines=Hey%2C+it's+Christopher;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ### About Me
-I'm a software engineer with a passion for making impactful change through software development and machine learning. Having a background in computer science and mathematics, I love tackling complex challenges and thinking of unique approaches to problems.
+I'm a software engineer with a passion for making impactful change through software development and machine learning. With a background in computer science and mathematics, I love tackling complex challenges and thinking of unique approaches to problems.
 
 ### Technical Skills
 
